@@ -3,3 +3,8 @@ The code has the capability of presenting us with unique airfoil shapes.
 
 To better understand the history of this transofrmation, though now it is rarely used in industries, these transformations laid the foundation of the airfoil profile that
 we see being used in most of the application in the aerospace, automobile, defense,renewable (wind/hydro),... and many more industries.
+
+Live update model: (recommended)
+* In this version, you will be able to control the input variables through a slider and observe the transformation happen in the plot Live
+Standard version:
+* A standard and robust code for the models is presented in the code, for each variable change the workspace has to be executed everytime
